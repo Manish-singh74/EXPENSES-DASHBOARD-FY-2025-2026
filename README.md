@@ -1,16 +1,17 @@
-# 🛍️ Vrinda Store Annual Report 2025
+# 💰 Expenses Dashboard | FY 2025
 
-An interactive **Excel Sales Dashboard** created to analyze Vrinda Store's 2025 sales performance and generate actionable business insights.
+An interactive **Excel Financial Dashboard** designed to analyze organizational expenses, budget utilization, and spending patterns.
 
 ## 📊 Dashboard Highlights
 
-- Monthly Sales Trend
-- Men vs Women Sales
-- Order Status Analysis
-- Top 5 States by Sales
-- Age Group vs Sales
-- Sales Channel Analysis
-- Category & Month Filters
+- Total Expenses & Budget Analysis
+- Department-wise Expenses
+- Expense Category Analysis
+- Monthly Expense Trends
+- Budget vs Actual Spending
+- Payment Method Analysis
+- Expense Approval Status
+- Month & Department Filters
 
 ## 🛠️ Tools Used
 
@@ -18,8 +19,11 @@ An interactive **Excel Sales Dashboard** created to analyze Vrinda Store's 2025 
 - Pivot Tables
 - Pivot Charts
 - Excel Slicers
-- Data Analysis & Visualization
+- KPI Analysis
+- Data Visualization
+
 
 ## 👨‍💻 Author
+
 **Manish Singh**  
 B.Tech CSE | Data Analytics Enthusiast
